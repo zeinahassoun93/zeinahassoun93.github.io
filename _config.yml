@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
-title: Zeina's homepage
+# theme: jekyll-theme-minimal
+# title: Zeina's homepage
 # description: 
+remote_theme: pages-themes/architect@v0.2.0
+title: Zeina's homepage
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
